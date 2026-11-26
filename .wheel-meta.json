@@ -1,0 +1,22 @@
+{
+  "wheel_id": 975,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-106",
+  "project": "kitchen-renovations-melbourne-west-diy-vs-professional-1f33c1cf",
+  "parent_t1_ref": "melbournewestkitchenrenovation-152",
+  "node_role": "feeder",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west diy vs professional",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-west-diy-vs-professional-1f33c1cf/",
+  "tier": "T2",
+  "writeback_nonce": "a82bed3336232f3f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbournewestkitchenrenovation-152/",
+      "anchor": "Kitchen Renovations Melbourne West Materials Compared: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
